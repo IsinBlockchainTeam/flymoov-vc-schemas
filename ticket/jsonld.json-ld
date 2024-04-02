@@ -42,8 +42,8 @@
             "@id": "vocab:seat",
             "@type": "xsd:string"
           },
-          "class": {
-            "@id": "vocab:class",
+          "ticketClass": {
+            "@id": "vocab:ticketClass",
             "@type": "xsd:string"
           },
           "NFTId": {
