@@ -133,7 +133,8 @@
           "type": "string"
         },
         "birthDate": {
-          "type": "integer"
+          "type": "string",
+          "format": "date-time"
         },
         "nationality": {
           "type": "string"

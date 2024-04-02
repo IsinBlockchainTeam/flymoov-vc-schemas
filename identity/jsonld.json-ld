@@ -32,7 +32,7 @@
           },
           "birthDate": {
             "@id": "vocab:birthDate",
-            "@type": "xsd:integer"
+            "@type": "xsd:dateTime"
           },
           "nationality": {
             "@id": "vocab:nationality",

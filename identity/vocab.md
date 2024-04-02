@@ -23,9 +23,9 @@ gender of the person as string
 ```
 
 # birthDate
-date of birth of the person as number (unix timestamp)
+date of birth of the person as string utc date like issuanceDate default parameter
 ```
-  "birthDate": 330417823
+  "birthDate": "02/04/2024"
 ```
 
 # nationality
