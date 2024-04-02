@@ -1,7 +1,9 @@
 {
+  "identityNumber": "ab123cd456",
   "name": "Mario",
   "surname": "Tanuki",
   "gender": "Fluid",
   "birthDate": 330417823,
-  "birthPlace": "Mushroom Kingdom"
+  "nationality": "Swiss",
+  "image": "base64 image encoded"
 }

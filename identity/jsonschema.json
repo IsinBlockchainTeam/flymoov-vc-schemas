@@ -106,17 +106,22 @@
       "type": "object",
       "required": [
         "id",
+        "identityNumber",
         "name",
         "surname",
         "gender",
         "birthDate",
-        "birthPlace"
+        "nationality",
+        "image"
       ],
       "properties": {
         "id": {
           "title": "Credential Subject ID",
           "type": "string",
           "format": "uri"
+        },
+        "identityNumber": {
+          "type": "string"
         },
         "name": {
           "type": "string"
@@ -130,7 +135,10 @@
         "birthDate": {
           "type": "integer"
         },
-        "birthPlace": {
+        "nationality": {
+          "type": "string"
+        },
+        "image": {
           "type": "string"
         }
       }

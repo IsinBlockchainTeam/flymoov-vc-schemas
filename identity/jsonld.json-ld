@@ -14,6 +14,10 @@
           "type": "@type",
           "vocab": "https://raw.githubusercontent.com/IsinBlockchainTeam/flymoov-vc-schemas/main/identity/vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "identityNumber": {
+            "@id": "vocab:identityNumber",
+            "@type": "xsd:string"
+          }
           "name": {
             "@id": "vocab:name",
             "@type": "xsd:string"
@@ -30,8 +34,12 @@
             "@id": "vocab:birthDate",
             "@type": "xsd:integer"
           },
-          "birthPlace": {
-            "@id": "vocab:birthPlace",
+          "nationality": {
+            "@id": "vocab:nationality",
+            "@type": "xsd:string"
+          }
+          "image": {
+            "@id": "vocab:image",
             "@type": "xsd:string"
           }
         }
