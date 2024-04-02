@@ -1,11 +1,11 @@
 # departureLocation
-departure location of the flight as string
+departure location of the flight as string from an enum
 ```
   "departureLocation": "BER"
 ```
 
 # arrivalLocation
-arrival location of the flight as string
+arrival location of the flight as string from an enum
 ```
     "arrivalLocation": "LUG"
 ```
@@ -41,7 +41,7 @@ seat number of the flight as string
 ```
 
 # class
-class of the ticket as string
+class of the ticket as string from an enum
 ```
     "class": "ECONOMY"
 ```

@@ -6,7 +6,7 @@
   "flightNumber": "LX38",
   "airline": "SWISS",
   "seat": "48J",
-  "class": "ECONOMY",
+  "class": "Economy",
   "NFTId": 2,
   "NFTContractAddress": "0x000"
 }
