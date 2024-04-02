@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "MOOVIdentity": {
-        "@id": "https://raw.githubusercontent.com/AgnolaTommasoDev/moov-vc-schema/main/identity/jsonld.json-ld",
+        "@id": "https://raw.githubusercontent.com/IsinBlockchainTeam/flymoov-vc-schemas/main/identity/jsonld.json-ld",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/AgnolaTommasoDev/moov-vc-schema/main/identity/vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/IsinBlockchainTeam/flymoov-vc-schemas/main/identity/vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "name": {
             "@id": "vocab:name",
