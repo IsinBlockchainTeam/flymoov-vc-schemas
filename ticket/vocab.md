@@ -1,25 +1,25 @@
 # departureLocation
 departure location of the flight as string
 ```
-  "departure": "BER"
+  "departureLocation": "BER"
 ```
 
 # arrivalLocation
 arrival location of the flight as string
 ```
-    "arrival": "LUG"
+    "arrivalLocation": "LUG"
 ```
 
 # departureDate
-departure date of the flight as number (unix timestamp)
+departure date of the flight as string utc date (like issuanceDate default parameter)
 ```
-    "date": 1580515200
+    "departureDate": "02/04/2024 11:00"
 ```
 
 # arrivalDate
-arrival date of the flight as number (unix timestamp)
+arrival date of the flight as string utc date (like issuanceDate default parameter)
 ```
-    "date": 1580515200
+    "arrivalDate": "02/04/2024 12:00"
 ```
 
 # flightNumber
@@ -38,6 +38,12 @@ name of the airline as string
 seat number of the flight as string
 ```
     "seat": "12A"
+```
+
+# class
+class of the ticket as string
+```
+    "class": "ECONOMY"
 ```
 
 # NFTId

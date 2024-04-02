@@ -113,6 +113,7 @@
         "flightNumber",
         "airline",
         "seat",
+        "class",
         "NFTId",
         "NFTContractAddress"
       ],
@@ -129,10 +130,12 @@
           "type": "string"
         },
         "departureDate": {
-          "type": "integer"
+          "type": "string",
+          "format": "date-time"
         },
         "arrivalDate": {
-          "type": "integer"
+          "type": "string",
+          "format": "date-time"
         },
         "flightNumber": {
           "type": "string"
@@ -141,6 +144,9 @@
           "type": "string"
         },
         "seat": {
+          "type": "string"
+        },
+        "class": {
           "type": "string"
         },
         "NFTId": {

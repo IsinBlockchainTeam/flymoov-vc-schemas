@@ -1,11 +1,12 @@
 {
   "departureLocation": "ZRH",
   "arrivalLocation": "SFO",
-  "departureDate": 1681641000,
-  "arrivalDate": 1681986600,
+  "departureDate": "02/04/2024 11:00",
+  "arrivalDate": "02/04/2024 12:00",
   "flightNumber": "LX38",
   "airline": "SWISS",
   "seat": "48J",
+  "class": "ECONOMY",
   "NFTId": 2,
   "NFTContractAddress": "0x000"
 }

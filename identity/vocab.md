@@ -23,7 +23,7 @@ gender of the person as string
 ```
 
 # birthDate
-date of birth of the person as string utc date like issuanceDate default parameter
+date of birth of the person as string utc date (like issuanceDate default parameter)
 ```
   "birthDate": "02/04/2024"
 ```

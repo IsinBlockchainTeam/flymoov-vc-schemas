@@ -24,11 +24,11 @@
           },
           "departureDate": {
             "@id": "vocab:departureDate",
-            "@type": "xsd:integer"
+            "@type": "xsd:dateTime"
           },
           "arrivalDate": {
             "@id": "vocab:arrivalDate",
-            "@type": "xsd:integer"
+            "@type": "xsd:dateTime"
           },
           "flightNumber": {
             "@id": "vocab:flightNumber",
@@ -40,6 +40,10 @@
           },
           "seat": {
             "@id": "vocab:seat",
+            "@type": "xsd:string"
+          },
+          "class": {
+            "@id": "vocab:class",
             "@type": "xsd:string"
           },
           "NFTId": {
