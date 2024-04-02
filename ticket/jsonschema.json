@@ -113,7 +113,7 @@
         "flightNumber",
         "airline",
         "seat",
-        "class",
+        "ticketClass",
         "NFTId",
         "NFTContractAddress"
       ],
@@ -4048,7 +4048,7 @@
         "seat": {
           "type": "string"
         },
-        "class": {
+        "ticketClass": {
           "type": "string",
           "enum": [
             "Economy",

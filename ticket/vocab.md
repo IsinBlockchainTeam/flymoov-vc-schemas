@@ -40,10 +40,10 @@ seat number of the flight as string
     "seat": "12A"
 ```
 
-# class
+# ticketClass
 class of the ticket as string from an enum
 ```
-    "class": "ECONOMY"
+    "ticketClass": "ECONOMY"
 ```
 
 # NFTId
