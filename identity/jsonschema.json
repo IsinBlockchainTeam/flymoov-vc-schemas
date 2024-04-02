@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/AgnolaTommasoDev/moov-vc-schema/main/identity/jsonld.json-ld",
-      "jsonSchema": "https://raw.githubusercontent.com/AgnolaTommasoDev/moov-vc-schema/main/identity/jsonschema.json"
+      "jsonLdContext": "https://raw.githubusercontent.com/IsinBlockchainTeam/flymoov-vc-schemas/main/identity/jsonld.json-ld",
+      "jsonSchema": "https://raw.githubusercontent.com/IsinBlockchainTeam/flymoov-vc-schemas/main/identity/jsonschema.json"
     }
   },
   "required": [

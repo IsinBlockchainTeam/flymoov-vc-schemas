@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "MOOVTicket": {
-        "@id": "https://raw.githubusercontent.com/AgnolaTommasoDev/moov-vc-schema/main/ticket/jsonld.json-ld",
+        "@id": "https://raw.githubusercontent.com/IsinBlockchainTeam/flymoov-vc-schemas/main/ticket/jsonld.json-ld",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "https://raw.githubusercontent.com/AgnolaTommasoDev/moov-vc-schema/main/ticket/vocab.md#",
+          "vocab": "https://raw.githubusercontent.com/IsinBlockchainTeam/flymoov-vc-schemas/main/ticket/vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "departureLocation": {
             "@id": "vocab:departureLocation",
