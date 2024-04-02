@@ -17,7 +17,7 @@
           "identityNumber": {
             "@id": "vocab:identityNumber",
             "@type": "xsd:string"
-          }
+          },
           "name": {
             "@id": "vocab:name",
             "@type": "xsd:string"
@@ -37,7 +37,7 @@
           "nationality": {
             "@id": "vocab:nationality",
             "@type": "xsd:string"
-          }
+          },
           "image": {
             "@id": "vocab:image",
             "@type": "xsd:string"
