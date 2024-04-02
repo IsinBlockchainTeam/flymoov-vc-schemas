@@ -1,0 +1,11 @@
+{
+  "departureLocation": "ZRH",
+  "arrivalLocation": "SFO",
+  "departureDate": 1681641000,
+  "arrivalDate": 1681986600,
+  "flightNumber": "LX38",
+  "airline": "SWISS",
+  "seat": "48J",
+  "NFTId": 2,
+  "NFTContractAddress": "0x000"
+}

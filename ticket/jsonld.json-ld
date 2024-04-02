@@ -1,0 +1,57 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "MOOVTicket": {
+        "@id": "https://raw.githubusercontent.com/AgnolaTommasoDev/moov-vc-schema/main/ticket/jsonld.json-ld",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "https://raw.githubusercontent.com/AgnolaTommasoDev/moov-vc-schema/main/ticket/vocab.md#",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "departureLocation": {
+            "@id": "vocab:departureLocation",
+            "@type": "xsd:string"
+          },
+          "arrivalLocation": {
+            "@id": "vocab:arrivalLocation",
+            "@type": "xsd:string"
+          },
+          "departureDate": {
+            "@id": "vocab:departureDate",
+            "@type": "xsd:integer"
+          },
+          "arrivalDate": {
+            "@id": "vocab:arrivalDate",
+            "@type": "xsd:integer"
+          },
+          "flightNumber": {
+            "@id": "vocab:flightNumber",
+            "@type": "xsd:string"
+          },
+          "airline": {
+            "@id": "vocab:airline",
+            "@type": "xsd:string"
+          },
+          "seat": {
+            "@id": "vocab:seat",
+            "@type": "xsd:string"
+          },
+          "NFTId": {
+            "@id": "vocab:NFTId",
+            "@type": "xsd:integer"
+          },
+          "NFTContractAddress": {
+            "@id": "vocab:NFTContractAddress",
+            "@type": "xsd:string"
+          }
+        }
+      }
+    }
+  ]
+}
