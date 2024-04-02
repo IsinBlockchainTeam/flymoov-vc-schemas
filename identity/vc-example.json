@@ -2,8 +2,8 @@
   "identityNumber": "ab123cd456",
   "name": "Mario",
   "surname": "Tanuki",
-  "gender": "Fluid",
+  "gender": "Male",
   "birthDate": "02/04/2024",
-  "nationality": "Swiss",
+  "nationality": "Switzerland",
   "image": "base64 image encoded"
 }

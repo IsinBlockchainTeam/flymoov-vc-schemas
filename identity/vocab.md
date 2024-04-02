@@ -17,9 +17,9 @@ surname of the person as string
 ```
 
 # gender
-gender of the person as string
+gender of the person as string from an Enum (Male, Female, Other)
 ```
-  "gender": "Fluid"
+  "gender": "Male"
 ```
 
 # birthDate
@@ -31,7 +31,7 @@ date of birth of the person as string utc date (like issuanceDate default parame
 # nationality
 nationatility of the person as string
 ```
-  "nationality": "Swiss"
+  "nationality": "Switzerland"
 ```
 
 # image
